@@ -30,14 +30,6 @@ header h1 {
     color: grey;
 }
 
-i {
-    color: grey;
-    box-align: right;
-    display: block;
-    float: right;
-    padding-right: 25px;
-}
-
 footer p {
     color: grey;
     float: right;
